@@ -3,6 +3,9 @@ def all_phrases
   toadstool
 end
 
+def link
+  phrase = "It's Dangerous To Go Alone! Take This."
+end
 
 def mario
   phrase = "It's-a me, Mario!"
